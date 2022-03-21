@@ -8,3 +8,5 @@ if st.button('Predict'):       #it creates button called predict and performs fo
   #st.write("Entered message is ")
   #st.write(op[0])
   st.title(op[0])
+           
+    
